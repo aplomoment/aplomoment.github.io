@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aplomoment.github.io/sitemap.xml
